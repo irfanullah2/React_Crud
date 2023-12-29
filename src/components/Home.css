@@ -1,0 +1,55 @@
+/* Home.css */
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin: 3%;
+  }
+  
+  .form-input {
+    margin-right: 10px;
+  }
+  .btns {
+    display: flex;
+  }
+  .btns .btn-create{
+    margin-right: 5px;
+  }
+  .btns .btn-update{
+    margin-right: 5px;
+    margin-left: 5px;
+  }
+  
+  .table-container {
+    margin: 3rem;
+    border:1px solid rgb(115, 101, 101);
+    padding: 2px;
+  }
+  
+  .btn-create {
+    background-color: #5cb85c;
+    color: #fff;
+  }
+  
+  .btn-update {
+    background-color: #337ab7;
+    color: #fff;
+  }
+  
+  .btn-clear {
+    background-color: #d9534f;
+    color: #fff;
+  }
+  
+  .btn-edit {
+    background-color: #5bc0de;
+    color: #fff;
+  }
+  
+  .btn-delete {
+    background-color: #d9534f;
+    color: #fff;
+  }
+  
+  /* Add more styles as needed */
+  
